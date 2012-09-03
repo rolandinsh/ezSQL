@@ -1,9 +1,9 @@
-=======================================================================
+﻿=======================================================================
 Author: Justin Vincent - http://justinvincent.com/ezsql
 Name: ezSQL
 Desc: Class to make it very easy to deal with database connections.
 License: FREE / Donation (LGPL - You may do what you like with ezSQL - no exceptions.)
-=======================================================================
+======================================================================
 
 Follow me on twitter:
 http://twitter.com/justinvincent
